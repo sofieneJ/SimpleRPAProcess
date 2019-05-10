@@ -12,7 +12,7 @@
     "UiPath.System.Activities": "[18.4.1]",
     "UiPath.Terminal.Activities": "[1.1.6464.20815]",
     "UiPath.UIAutomation.Activities": "[19.4.1]",
-    "UiPath.WebAPI.Activities": "[1.1.6479.13209]"
+    "UiPath.WebAPI.Activities": "[1.4.1]"
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.2",
