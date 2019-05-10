@@ -1,0 +1,2 @@
+call "C:\Program Files (x86)\UiPath\Studio\UiRobot.exe" /file "C:\Users\sofiene.jenzri\Documents\uipath\Demos\Calculator\Main.xaml"
+call mkdir C:\Users\sofiene.jenzri\Documents\uipath\Demos\Calculator\fold
