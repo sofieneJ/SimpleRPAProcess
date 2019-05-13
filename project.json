@@ -3,6 +3,7 @@
   "description": "Blank Project",
   "main": "Main.xaml",
   "dependencies": {
+    "LastWorkingDay": "1.0.7072.16791",
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "Twilio.Workflow.Activities": "[1.0.0]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
@@ -16,7 +17,7 @@
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.2",
-  "projectVersion": "1.0.7068.17999",
+  "projectVersion": "1.0.7071.35572",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
